@@ -1,5 +1,5 @@
 {
-    "name": "script testing",
+    "name": "telegram integration testing",
     "description": "",
     "dependencies": {
         "core": "*",
